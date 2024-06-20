@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/SchoolManagement/.idea/.idea.SchoolManagement/.idea/.gitignore
+/SchoolManagement/.idea/.idea.SchoolManagement/.idea/encodings.xml
+/SchoolManagement/.idea/.idea.SchoolManagement/.idea/indexLayout.xml
+/SchoolManagement/.idea/.idea.SchoolManagement/.idea/vcs.xml
